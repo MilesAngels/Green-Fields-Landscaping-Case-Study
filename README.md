@@ -10,3 +10,4 @@
 4. Calculate the number of cubic yards of mulch needed.
 5. Display the results.
 
+**Variables whose values will be input**
